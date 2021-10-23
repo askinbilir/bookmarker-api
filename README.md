@@ -10,6 +10,6 @@
   Install packages in requeirements.txt file
   
 ## Running App
-  Open a new terminal and in the main directory type flask run
+  Open a new terminal in the main directory of project and type flask run
   
   App will run on http://localhost:5000/
